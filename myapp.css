@@ -1,0 +1,32 @@
+.first {
+        background-color: #222222;
+        width: 319px;
+        height: 100vh;
+        position: fixed;
+        }
+       .text {
+           color: #FFFFFF;
+           margin-left: 28px; margin-top: 42px; font-size: 24; font-weight: normal; font-family: ;
+       }
+       .home {
+           height: 60px; width: 259px; background-color: #FF2288;
+           border-radius: 12%; margin-top: 145px; margin-left: 28px; color: #FFFFFF; transform: matrix(20 px);
+       } 
+       .pic1 {
+           margin-right: 5px;
+       }
+       ul {
+           margin-top: 51px; margin-left: 60px; color: #FFFFFF;
+       }
+       ol {
+           margin-top: 28px; color: #FFFFFF; margin-left: 60px;
+       }
+       .box1 {
+           margin-top: 60px;
+       }
+       .box2 {
+           margin-top: 218;
+       }
+       .text2 {
+           color: #FFFFFF; font-size: 12; margin-left: 60px;
+       }
